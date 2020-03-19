@@ -44,31 +44,31 @@ Books, Videos, Websites
 
   * [CPAP vs Non-invasive ventilation (BiPAP)](https://geekymedics.com/cpap-vs-niv-bipap/)
 
-  * [CPAP Teardown](https://www.youtube.com/watch?v=uRHwZFa6XI0)
+  * [CPAP Teardown](https://www.youtube.com/watch?v=uRHwZFa6XI0) `YouTube`
 
   * [Bench testing simple ventilators for emergency usage, with medical write-ups of what works and what doesn’t](http://rc.rcjournal.com/content/56/6/751)
 
   * [Preventing intubation in acute respiratory failure: Use of CPAP and BiPAP ](https://www.mcgill.ca/criticalcare/teaching/files/intubation)
 
-  * [A low oxygen consumption pneumatic ventilator foremergency construction during a respiratory failurepandemic](https://lookaside.fbsbx.com/file/Williams_et_al-2010-Anaesthesia.pdf)
+  * [A low oxygen consumption pneumatic ventilator foremergency construction during a respiratory failurepandemic](https://lookaside.fbsbx.com/file/Williams_et_al-2010-Anaesthesia.pdf) `Facebook`
 
-  * [The History of Mechanical Ventilation](https://lookaside.fbsbx.com/file/rsp_it_began_with_pulmotor_booklet_9051434_en.pdf)
+  * [The History of Mechanical Ventilation](https://lookaside.fbsbx.com/file/rsp_it_began_with_pulmotor_booklet_9051434_en.pdf) `Facebook`
 
-  * [Principles and Practices of Mechanical Ventilation 3rd Edition](https://lookaside.fbsbx.com/file/Principles-and-Practice-of-Mechanical-Ventilation-3rd-Edition.pdf)
+  * [Principles and Practices of Mechanical Ventilation 3rd Edition](https://lookaside.fbsbx.com/file/Principles-and-Practice-of-Mechanical-Ventilation-3rd-Edition.pdf) `Facebook`
 
-  * [Understanding Mechanical Ventilation](https://lookaside.fbsbx.com/file/Understanding-mechanical.pdf)
+  * [Understanding Mechanical Ventilation](https://lookaside.fbsbx.com/file/Understanding-mechanical.pdf) `Facebook`
 
-  * [Improvised Automatic Lung Ventilation for Unanticipated Emergencies](https://lookaside.fbsbx.com/file/VentilatorMultiplier_aka_improv_ventilators_for_unanticipated_emergencies.pdf)
+  * [Improvised Automatic Lung Ventilation for Unanticipated Emergencies](https://lookaside.fbsbx.com/file/VentilatorMultiplier_aka_improv_ventilators_for_unanticipated_emergencies.pdf) `Facebook`
 
-  * [Ventilator/Respirator Hardware andSoftware Design Specification](https://lookaside.fbsbx.com/file/VentilatorBuildInstructions_DRM127.pdf)
+  * [Ventilator/Respirator Hardware andSoftware Design Specification](https://lookaside.fbsbx.com/file/VentilatorBuildInstructions_DRM127.pdf) `Facebook`
 
-  * [A Single Ventilator for Multiple SimulatedPatients to Meet Disaster Surge](https://lookaside.fbsbx.com/file/VentilatorMultiplier_Post2001.pdf)
+  * [A Single Ventilator for Multiple SimulatedPatients to Meet Disaster Surge](https://lookaside.fbsbx.com/file/VentilatorMultiplier_Post2001.pdf) `Facebook`
 
-  * [Safety information relating to the recommendations for the management of patients infected or potentially infected with 2019-nCoV (French)](https://lookaside.fbsbx.com/file/mes-20200306-COVID19.pdf)
+  * [Safety information relating to the recommendations for the management of patients infected or potentially infected with 2019-nCoV](https://lookaside.fbsbx.com/file/mes-20200306-COVID19.pdf) `Facebook` `French`
 
-  * [Policy for Temporary Compounding of Certain Alcohol-Based Hand Sanitizer ProductsDuring the Public Health Emergency Immediately in Effect Guidance for Industry](https://lookaside.fbsbx.com/file/Guidance_hand_sanitizers_0.pdf)
+  * [Policy for Temporary Compounding of Certain Alcohol-Based Hand Sanitizer ProductsDuring the Public Health Emergency Immediately in Effect Guidance for Industry](https://lookaside.fbsbx.com/file/Guidance_hand_sanitizers_0.pdf) `Facebook`
 
-  * [A low oxygen consumption pneumatic ventilator foremergency construction during a respiratory failurepandemic](https://lookaside.fbsbx.com/file/Williams_et_al-2010-Anaesthesia.pdf)
+  * [A low oxygen consumption pneumatic ventilator foremergency construction during a respiratory failurepandemic](https://lookaside.fbsbx.com/file/Williams_et_al-2010-Anaesthesia.pdf) `Facebook`
 
   * [Design and Prototyping of a Low-cost Portable Mechanical Ventilator](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
 
